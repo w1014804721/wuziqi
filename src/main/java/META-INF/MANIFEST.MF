@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: spring-beans-4.3.6.RELEASE.jar spring-context-4.3.6.RELEAS
+ E.jar spring-expression-4.3.6.RELEASE.jar spring-aop-4.3.6.RELEASE.ja
+ r commons-logging-1.2.jar spring-core-4.3.6.RELEASE.jar
+Main-Class: top.wangjingxin.Launch
+
